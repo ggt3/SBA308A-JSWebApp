@@ -1,0 +1,1 @@
+This app displays a random pokemon on initial visit and displays the types. You can search for a pokemon through their Pokedex entry number or by name and it will update the image of the pokemon and the information on the type.
